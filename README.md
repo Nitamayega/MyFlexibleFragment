@@ -3,3 +3,4 @@ Repository ini berisi latihan Belajar Fundamental Aplikasi Android - Latihan Fra
 - Fragment di Activity
 - Flexible Fragment di Satu Activity
 - Mengirim Data Antar Fragment
+- Fragment KTX di Android
